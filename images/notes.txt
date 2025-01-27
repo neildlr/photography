@@ -1,0 +1,2 @@
+add /fulls/ and /thumbs/ folders here
+do not use spaces in file names

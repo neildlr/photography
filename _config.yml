@@ -13,8 +13,8 @@ header:
  title: "Photography"
  subtitle: "by Neil de la Rey"
 footer:
- name: "Hey there, my name is Neil"
- bio: "I am a photographer"
+ name: "Hi, my name is Neil"
+ bio: "I am a photographer with a passion for landscape and wildlife. I enjoy sharing the beauty that I see in the world"
  github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork this repo on github</a> ;)"
 web_design: "AJ"
 # Configure which exif data to display
